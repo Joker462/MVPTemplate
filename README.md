@@ -103,7 +103,7 @@ extension LoginRouter: Navigate {
 
 # Installation
 
-To install MVP Swift Xcode templates, run:
+To install MVP Swift Xcode templates, direct to the root folder of this source and type a command below in terminal or cmd:
 ```
 make install
 ```
